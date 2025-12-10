@@ -23,4 +23,4 @@ Install dependencies via requirements.txt.
 
 Run the pretrained model with predict.py (after downloading the companion pretrained-models archive) to start a conversation as one of the supported personas. 
 
-Alternatively, prepare your own support Q&A data (FAQ or dialogue logs), format it appropriately, and train a new model using train.py to customize the bot for your doma
+Alternatively, prepare your own support Q&A data (FAQ or dialogue logs), format it appropriately, and train a new model using train.py to customize the bot for your domain.
